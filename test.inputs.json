@@ -1,0 +1,6 @@
+{
+    "modbamCalcMeth.MODBAM" : "test/HG002.haplotagged.chr6_29941018-34058367.bam",
+    "modbamCalcMeth.MODBAM_INDEX" : "test/HG002.haplotagged.chr6_29941018-34058367.bam.bai",
+    "modbamCalcMeth.SAMPLE" : "HG002",
+    "modbamCalcMeth.REGIONS_BED" : "test/promoters.bed" 
+}
