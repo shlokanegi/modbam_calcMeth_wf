@@ -40,8 +40,8 @@ task calcMeth {
         File modbam_index
         String sample
         File regions_bed
-        Int memSizeGB = 8
-        Int threadCount = 2
+        Int memSizeGB = 20
+        Int threadCount = 5
         Int diskSizeGB = 5*round(size(modbam, "GB")) + 20
     }
 
