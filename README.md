@@ -1,4 +1,4 @@
-# Calculate Methylation Workflow
+# Calculate Average Methylation Workflow
 Calculates haplotype-specific average percent modification per region, and additional stats, using modbamtools
 
 ## Input considerations
